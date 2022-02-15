@@ -1,0 +1,10 @@
+title: Kotlin Maven Project
+plan:
+- title: Welcome
+  statement: markdowns/welcome.md
+projects:
+  java:
+    root: /kotlin-project
+    runner:
+      name: techio/kotlin-maven3-junit4-runner
+      version: 1.0.6-kotlin-1.1.50
